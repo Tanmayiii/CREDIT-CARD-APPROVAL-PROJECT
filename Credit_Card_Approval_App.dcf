@@ -1,0 +1,14 @@
+name: Credit_Card_Approval_App
+title: Credit_Card_Approval_App
+username:
+account: q0033e-horng0neng-ong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8122006
+bundleId: 6772461
+url: https://q0033e-horng0neng-ong.shinyapps.io/Credit_Card_Approval_App/
+when: 1674647895.94342
+lastSyncTime: 1674647895.94346
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: model.json|xgb.joblib
