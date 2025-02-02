@@ -1,3 +1,5 @@
+# 📌 Credit Card Approval Prediction
+
 ## Introduction: 
 When providing a credit card to a customer, banks had to rely on the applicant’s background and the history to understand the creditworthiness of the applicant. The process includes scrutinisation of application data with reference documents and this process was not always accurate and the bank had to face difficulties in approving the credit card.
 Aims to help banking and financial institutions to identify and approve the creditworthy customers by using predictive models. 
